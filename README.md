@@ -4,7 +4,7 @@
 
 ### 📕 My Projects :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yohcard&theme=onedark&show_icons=true&repo=P_FUN_YohCard)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yohcard&repo=P_FUN_YohCard&theme=onedark&show_icons=true)
 
 
 ### 🛠 &nbsp;Languages and Tools :
