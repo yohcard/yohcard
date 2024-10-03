@@ -23,6 +23,11 @@
       <img src="https://github-readme-stats.vercel.app/api/pin?username=yohcard&repo=P_FUN_YohCard&theme=onedark&show_icons=true" alt="yohcard's GitHub stats" width="100%">
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=yohcard&repo=POO-yohan-Cardis&theme=onedark&show_icons=true" alt="yohcard's GitHub stats" width="100%">
+    </td>
+  </tr>
 </div>
 
 ### 🛠 &nbsp;Languages and Tools :
