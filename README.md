@@ -1,6 +1,19 @@
 # 🛸 Welcome to my profile !
-![yohcard's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohcard&show_icons=true&theme=darcula&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohcard&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yohcard&show_icons=true&theme=darcula&rank_icon=github" alt="yohcard's GitHub stats" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohcard&layout=compact&theme=monokai" alt="Top Langs" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### 📕 My Projects :
 
