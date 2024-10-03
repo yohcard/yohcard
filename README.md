@@ -6,11 +6,11 @@
     </td>
   </tr>
   <tr>
-   
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohcard&layout=compact&theme=monokai" alt="Top Langs" width="100%">
       </a>
-  
+    </td>
   </tr>
 </table>
 
