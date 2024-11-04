@@ -17,7 +17,7 @@
 
 
 ### 📕 My Projects :
-<table style="width: 150%; text-align: center; margin: auto;">
+<table style="width: 170%; text-align: center; margin: auto;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin?username=yohcard&repo=P_FUN_YohCard&theme=onedark&show_icons=true" alt="yohcard's GitHub stats" width="100%">
