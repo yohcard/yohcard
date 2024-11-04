@@ -1,15 +1,15 @@
 # 🛸 Welcome to my profile !
 
-<table>
+<table style="width: 100%; text-align: center; margin: auto;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yohcard&show_icons=true&theme=darcula&rank_icon=github" alt="yohcard's GitHub stats" width="100%">
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=yohcard&show_icons=true&theme=darcula&rank_icon=github" alt="yohcard's GitHub stats" width="80%">
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding: 10px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohcard&layout=compact&theme=monokai" alt="Top Langs" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohcard&layout=compact&theme=monokai" alt="Top Langs" width="80%">
       </a>
     </td>
   </tr>
@@ -17,7 +17,7 @@
 
 
 ### 📕 My Projects :
-<div width="100%">
+<table style="width: 100%; text-align: center; margin: auto;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin?username=yohcard&repo=P_FUN_YohCard&theme=onedark&show_icons=true" alt="yohcard's GitHub stats" width="100%">
@@ -28,7 +28,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin?username=yohcard&repo=POO-yohan-Cardis&theme=onedark&show_icons=true" alt="yohcard's GitHub stats" width="100%">
     </td>
   </tr>
-</div>
+</table>
 
 ### 🛠 &nbsp;Languages and Tools :
 
